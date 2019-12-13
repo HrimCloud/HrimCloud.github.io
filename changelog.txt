@@ -1,0 +1,35 @@
+= 1.0.8 =
+* WP 4.6.1 Compatible.
+* Added Inner page image section.
+* Updated Font Awesome Icons.
+* Removed backward theme compatibility
+
+= 1.0.7 =
+* WP 4.6 Compatible.
+* Updated Font Awesome Icons.
+* Removed backward theme compatibility
+
+= 1.0.6 =
+* Fixed undefined function issue at front page.
+
+= 1.0.5 =
+* Fixed text doamin and function prefix issue.
+
+= 1.0.4 =
+* Removed unwanted comment code.
+
+= 1.0.3 =
+* Fixed responsive layout issue.
+
+= 1.0.2 =
+* Fixed some style issues.
+* Fixed escaping issues.
+* Added editor-style css.
+* Removed plugin territory code.
+
+= 1.0.1 =
+* Added Insta appointment form on the front page
+* Fixed some style issues
+
+= 1.0.0 =
+* Initial release
